@@ -1,17 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T02:17:24.946Z" agent="5.0 (Linux; Android 11; SM-G9910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Safari/537.36" etag="8BSU789ZdPdG9fkMgs6x" version="16.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-28T01:59:34.780Z" agent="5.0 (Linux; Android 11; SM-G9910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Safari/537.36" etag="_RNL8jdXJlGENhr9Eb3l" version="16.4.7" type="github">
   <diagram id="73gC0zpFda0AWExXD4cL" name="第 1 页">
     <mxGraphModel dx="1422" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kMYKZAJqnbpn_M8Afu1v-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kMYKZAJqnbpn_M8Afu1v-1" target="kMYKZAJqnbpn_M8Afu1v-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="s3xUPFjqsya493fXvb9K-1" value="政府&lt;br&gt;只能是一方" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kMYKZAJqnbpn_M8Afu1v-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="s3xUPFjqsya493fXvb9K-2" value="企业&lt;br&gt;2个及以上" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="670" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kMYKZAJqnbpn_M8Afu1v-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="s3xUPFjqsya493fXvb9K-3" value="劳工&lt;br&gt;2个及以上" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xUPFjqsya493fXvb9K-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="650" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xUPFjqsya493fXvb9K-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="650" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xUPFjqsya493fXvb9K-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="350" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xUPFjqsya493fXvb9K-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="350" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xUPFjqsya493fXvb9K-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="650" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xUPFjqsya493fXvb9K-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="650" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xUPFjqsya493fXvb9K-11" value="如果以一个人就代表了一个集团，内部的矛盾就自然被忽视了" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="5" y="140" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xUPFjqsya493fXvb9K-13" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1、目标&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2、职能/手段&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3、局限/缺陷&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="5" y="170" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s3xUPFjqsya493fXvb9K-14" value="以市场供给过剩为理论原型设计游戏" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="5" y="20" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
